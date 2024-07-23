@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/src/java/Controller/Customer/Search.java</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/src/java/Controller/Customer/PaymentInforHandler.java</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/src/java/DAO/OrderDAO.java</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/src/java/Controller/Seller/ManageOrder.java</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/web/view/CustomerView/MyOrder.jsp</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/web/view/SellerView/ManageOrder.jsp</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/src/java/Controller/Customer/MyOrderController.java</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/web/JS/ManageOrder.js</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/web/view/CustomerView/Payment.jsp</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/web/view/CustomerView/SearchPage.jsp</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/src/java/DAO/ProductTypeColorDAO.java</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/src/java/Controller/Common/HomeController.java</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/web/view/CustomerView/productDetail.jsp</file>
+            <file>file:/E:/Documents/Java/New%20folder/version2/Tikilazapee/src/java/DAO/ProductDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
